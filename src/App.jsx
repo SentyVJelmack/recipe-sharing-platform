@@ -1,10 +1,9 @@
 function App() {
   return (
-    <div className="text-center mt-10">
-      <h1 className="text-4xl font-bold text-blue-500">Recipe Sharing Platform 🍲</h1>
-      <p className="mt-4 text-gray-600">Tailwind CSS is working perfectly!</p>
-    </div>
-  );
+    <h1 className="text-3xl font-bold text-blue-500 text-center mt-10">
+      Recipe Sharing Platform
+    </h1>
+  )
 }
 
-export default App;
+export default App
